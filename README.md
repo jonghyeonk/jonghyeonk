@@ -7,6 +7,8 @@ extracting useful process insights from event log analysis and, therefore, shoul
 anomaly detection in offline settings, (ii) anomaly detection in online settings, and (iii) log repairing, i.e., anomaly reconstruction. All the methods focus on trace-level anomaly detection, i.e., anomalies
 concerning the order and/or occurrence of events in process traces.
 
+- ✨ More and state-of-the-art inf. about me is updated in my personal website (https://sites.google.com/view/jonghyeonko)
+
 <!---
 jonghyeonk/jonghyeonk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
