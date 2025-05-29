@@ -1,15 +1,7 @@
-- 👋 Jonghyeon Ko is a PhD candidate in Department of Industrial Engineering at Ulsan National Institute of Science and Technology (UNIST).
 
-- 👀 His research field is  Anomaly Detection in business process event logs, based on his expertise in Process-mining, Statistics and Machine Learning. 
+[- 👀 Dr. Jonghyeon Ko has been actively involved in research related to anomaly detection and process mining, particularly developing novel machine learning techniques to improve the reliability and efficiency of complex information systems. His research career has spanned various prestigious institutions, including:
 
-- 🌱 The research subject that I investigated during my PhD program is anomaly (or ‘outlier’) detection in business process event logs. Event logs are prone to errors, which hamper the possibility of
-extracting useful process insights from event log analysis and, therefore, should be fixed through anomaly detection as early as possible. Regarding event log anomaly detection, I have managed 3 research lines during my PhD: (i)
-anomaly detection in offline settings, (ii) anomaly detection in online settings, and (iii) log repairing, i.e., anomaly reconstruction. All the methods focus on trace-level anomaly detection, i.e., anomalies
-concerning the order and/or occurrence of events in process traces.
-
-- ✨ The latest information about me is updated on my personal website (https://sites.google.com/view/jonghyeonko).
-
-<!---
-jonghyeonk/jonghyeonk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- ✨ Queensland University of Technology (Australia, Nov.2024 ~ present): As a Research Fellow at the Faculty of Science, he is currently contributing to process data quality research in the Process Science Group, leveraging his long-term expertise on anomaly detection and repair.
+- ✨ Jeonju University (S. Korea, 2024): During his tenure as a Research Professor, he continued his research in the field of human behaviour data technology, likely focusing on real-time noise filtering.
+Free University of Bozen-Bolzano (Italy, 2022~2023): As a recognition of the quality of his research, Jonghyeon was able to secure a PostDoc position in one of the world-leading groups in process mining research. Supervised by Prof. Fabrizio Maria Maggi and Prof. Marco Montali, he delved deeper into process mining, exploring novel probabilistic and optimization algorithms.
+- ✨ Ulsan National Institute of Science and Technology (S. Korea, 2016~2022): During his Ph.D. and postdoctoral research, he focused on information-theoretic methods for detecting anomalies in business process event logs, laying the foundation for his subsequent research. ]
